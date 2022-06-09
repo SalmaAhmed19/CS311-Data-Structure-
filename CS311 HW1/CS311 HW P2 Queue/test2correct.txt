@@ -1,0 +1,32 @@
+Script started on Thu 10 Feb 2022 11:41:30 AM PST
+]0;rashe005@empress:~/CS311Progs/HWPrograms/forHW1/HW1P2_queue[?1034h[rashe005@empress HW1P2_queue]$ g++ queue.cpp client2.cpp
+]0;rashe005@empress:~/CS311Progs/HWPrograms/forHW1/HW1P2_queue[rashe005@empress HW1P2_queue]$ ./a.out
+A
+B
+C
+AA
+AB
+AC
+BA
+BB
+BC
+CA
+CB
+CC
+AAA
+AAB
+AAC
+ABA
+ABB
+ABC
+ACA
+ACB
+ACC
+BAA
+BAB
+BAC
+Error Overflow , queue is full
+]0;rashe005@empress:~/CS311Progs/HWPrograms/forHW1/HW1P2_queue[rashe005@empress HW1P2_queue]$ exit
+exit
+
+Script done on Thu 10 Feb 2022 11:41:53 AM PST
